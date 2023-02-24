@@ -1,0 +1,153 @@
+/*@media all and (min-width:992px){
+   .navbar .nav-item .dropdown-menu{display: none;}
+   .navbar .nav-item:hover .nav-link{ }
+    .navbar .nav-item:hover .dropdown-menu{display: block;}
+    .navbar .nav-item .dropdown-menu{margin-top: 0;}
+}
+*/
+/*.navbar .nav-item .dropdown-menu{display: none;}*/
+/*.navbar .nav-item:hover .dropdown-menu{display: block;}*/
+/*.navbar .nav-item:hover .nav-link{ }*/
+
+/*!*.navbar .nav-item .dropdown-menu{margin-top: 0;}*!*/
+/*.my-caption{*/
+/*    top: 150px;*/
+/*    background: rgba(0,0,0,0.5);*/
+/*    height: 180px;*/
+
+/*}*/
+/*@media screen and (max-width:800px){*/
+/*.my-caption{*/
+/*   top: 80px;*/
+/*}*/
+
+/*}*/
+/*@media screen and (min-width:800px) and  (max-width:1200px) {*/
+/*    .my-caption{*/
+/*        top: 100px;*/
+/*    }*/
+
+/*}*/
+/*.card-image{*/
+/*    transition: transform .5s;*/
+/*}*/
+/*.card-image:hover{*/
+/*    transform: scale(1.1);*/
+
+/*}*/
+
+/* ======================project css ========================*/
+/*.bg-orange{*/
+/*    background-color: #FF4800;*/
+/*}*/
+/*.bg-orange:hover{*/
+/*    background-color: #D93D00;*/
+/*    color:white;*/
+/*}*/
+
+/*.bg-dark-navy{*/
+/*    background-color:#1f1f2e ;*/
+/*}*/
+/*.bg{*/
+/*    background-color:#f2f2f4*/
+/*}*/
+
+/*.text-orange, .text-orange:hover{*/
+/*    color:#FF4800;*/
+/*}*/
+
+/*.text-orange:hover{*/
+/*    color:#FF4800;*/
+/*}*/
+
+/*.nav-link:hover{*/
+/*    background-color: #FF4800;*/
+/*    color:white*/
+
+/*}*/
+
+/*.banner-section{*/
+/*    background-image: url("../image/header.jpg");*/
+/*    height: 500px;*/
+/*}*/
+/*.banner-card{*/
+/*    margin-top: 120px;*/
+
+/*}*/
+
+/*.free-quote-form{*/
+/* padding:60px*/
+/*}*/
+
+/*.text-decoration{*/
+/*    text-decoration-color: #e6e6ed;*/
+/*    text-underline-offset: 3px;*/
+/*}*/
+
+/*.text-decoration:hover{*/
+/*color:#d93d00;*/
+/*}*/
+
+/*============= card hover ====================*/
+/*.team-card{*/
+/*    border-bottom: 5px solid #FF4800;*/
+/*}*/
+/*.team-card .card-body{*/
+/*    position: relative;*/
+/*}*/
+/*.hover-content{*/
+/*    display: none;*/
+/*    padding-top:30px;*/
+/*    height: 100%;*/
+/*    !*transition:all 0.5s;*!*/
+/*}*/
+
+/*.team-card:hover .hover-content{*/
+/*    display:block;*/
+/*    position: absolute;*/
+/*    top: 0;*/
+/*    width: 100%;*/
+/*}*/
+
+
+/*.icon-style{*/
+/*    border:1px solid black;*/
+/*    border-radius:100%;*/
+/*    color:black;*/
+/*    transition:all 0.5s;*/
+/*}*/
+
+/*.icon-style:hover{*/
+/*    background-color:black;*/
+/*    color:white;*/
+
+/*}*/
+
+/*======================css for portfolio=========================*/
+
+.text-decoration-style{
+    text-decoration: none;
+}
+
+.text-decoration-style:hover{
+   text-decoration: underline;
+}
+.banner{
+    /*background-image: url("../image/banner.jpg");*/
+    background-color: #0d1517;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+{
+  "name": "php-exam/php-exam",
+  "description": "portfolio",
+  "minimum-stability": "stable",
+  "type": "project",
+"keyword": [],
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Shafin Ahamed",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+
+}

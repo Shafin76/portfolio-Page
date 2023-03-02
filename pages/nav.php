@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-md navbar-dark bg-dark">
     <div class="container">
         <!--ul>li*4>a[href=""]-->
-        <!--        <a href="" class="navbar-brand " >LOGO</a>-->
+<!--                <a href="" class="navbar-brand " ></a>-->
         <button type="button" class="navbar-toggler ms-auto" data-bs-toggle="collapse" data-bs-target="#menu">
             <span class="navbar-toggler-icon "></span>
         </button>

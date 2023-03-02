@@ -29,7 +29,7 @@ class Data
           2=>[
 'House # 420, Road # 03. Green Road, Dhaka 1215',
               '0187*****94',
-              'pervej@gmail.com'
+              'shafinahamed@gmail.com'
 
           ]
 

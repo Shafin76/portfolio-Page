@@ -35,6 +35,8 @@ if(isset($_GET['page'])){
     }
 
     if($_GET['page']=="gallery"){
+        $project= new Project();
+        $projects= $project->allProject();
         include "pages/gallery.php";
     }
     if($_GET['page']=="contact"){

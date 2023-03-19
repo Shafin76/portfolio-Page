@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d7c553d-a638-45bf-ae3d-a0316bba47ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/css/per.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/classes/Services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/service.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/action.php" beforeDir="false" afterPath="$PROJECT_DIR$/action.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/gallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/gallery.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/nav.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../calculator" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -59,7 +59,12 @@
       <updated>1677213316363</updated>
       <workItem from="1677213320379" duration="14809000" />
       <workItem from="1677241839931" duration="14971000" />
-      <workItem from="1677761444516" duration="8980000" />
+      <workItem from="1677761444516" duration="9796000" />
+      <workItem from="1678034850390" duration="24000" />
+      <workItem from="1678038717175" duration="529000" />
+      <workItem from="1679053522991" duration="1756000" />
+      <workItem from="1679055331709" duration="1040000" />
+      <workItem from="1679063385989" duration="841000" />
     </task>
     <servers />
   </component>
@@ -67,14 +72,18 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1677765266690">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1678038751380">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1677765266690" />
-    <state x="910" y="134" key="NewPhpClassDialog" timestamp="1677248959385">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1678038751380" />
+    <state x="910" y="134" key="NewPhpClassDialog" timestamp="1679053860736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="910" y="134" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1677248959385" />
+    <state x="910" y="134" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1679053860736" />
+    <state x="687" y="336" key="NewPhpFileDialog" timestamp="1679055079974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="687" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1679055079974" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1677762074770">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

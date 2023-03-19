@@ -18,7 +18,7 @@
                     <?php foreach ($projects as $project){?>
                         <div class="col  col-md-6 col-lg-4 border-0 pb-3">
                             <div class="card1 card shadow bg-white rounded  ">
-                                <div class="image text-center">
+                                <div class="image text-center rounded-top-3">
 
                                     <img src="assets/image/<?php echo $project['image'];?>" height="250"  class="card-img-top p-2 " alt="...">
 

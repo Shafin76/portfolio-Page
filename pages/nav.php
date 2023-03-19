@@ -13,9 +13,10 @@
                 <li class="dropdown">
                     <a href="" class="nav-link dropdown-toggle"  data-bs-toggle="dropdown">Service</a>
                     <ul class="dropdown-menu bg-secondary">
-                        <li><a href="" class="dropdown-item">Service one</a></li>
-                        <li><a href="" class="dropdown-item">Service two</a></li>
-                        <li><a href="" class="dropdown-item">Service three</a></li>
+                        <?php foreach ($allService as $srvice){?>
+                        <li><a href="action.php?page=service&&id=<?php echo $srvice['sid'] ?>" class="dropdown-item"><?= $srvice['sName']?></a></li>
+
+                        <?php }?>
                     </ul>
                 </li>
                 <li><a href="action.php?page=portfolio" class="nav-link" >Portfolio</a></li>
